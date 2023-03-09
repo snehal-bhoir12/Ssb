@@ -1,0 +1,23 @@
+.div{
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid lightcoral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.sm{
+    width: 40vw;
+    height: 40vh;
+    background-color: rebeccapurple;
+    box-shadow:   2px 5px lightslategrey;
+    border-radius: 20px;
+
+}
+.sm h3{
+    display: flex;
+text-align: center;
+justify-content: center;
+color: white;
+}
